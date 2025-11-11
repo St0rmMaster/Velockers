@@ -1,0 +1,43 @@
+{
+  "models": {
+    "2.9": "2.9",
+    "3.3": "3.3",
+    "2.9E": "2.9E",
+    "3.3E": "3.3E"
+  },
+  "materials": {
+    "fiberglass": "Fiberglass",
+    "fullCarbon": "Full carbon"
+  },
+  "ui": {
+    "selectModel": "Select Model",
+    "selectMaterial": "Material",
+    "selectColor": "Color",
+    "options": "Options",
+    "totalPrice": "Total Price",
+    "share": "Share",
+    "enquireNow": "Enquire Now"
+  },
+  "camera": {
+    "default": "Default View",
+    "stern": "Stern",
+    "bow": "Bow",
+    "cockpit": "Cockpit",
+    "cabin": "Cabin"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message (optional)",
+    "submit": "Send Enquiry",
+    "success": "Enquiry sent successfully!",
+    "error": "Failed to send enquiry. Please try again."
+  },
+  "errors": {
+    "invalidCombination": "This combination is not available",
+    "dataUnavailable": "Price data unavailable. Please try again later.",
+    "brokenDeeplink": "Invalid configuration link. Resetting to default."
+  }
+}
+

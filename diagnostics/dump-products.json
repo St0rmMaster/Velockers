@@ -1,0 +1,561 @@
+﻿[
+  {
+    "id": "a5659adb-47d1-491f-bbfa-0b289685e76a",
+    "type": "color",
+    "name": "Forest Green",
+    "metadata": {
+      "hex": "#2ECC71"
+    }
+  },
+  {
+    "id": "1c6a2682-9dd0-41d0-a8e0-fa48131bc670",
+    "type": "color",
+    "name": "Ocean Blue",
+    "metadata": {
+      "hex": "#4A90E2"
+    }
+  },
+  {
+    "id": "d723b462-7e1c-47c7-b56e-9512cb254c3a",
+    "type": "color",
+    "name": "White Grey",
+    "metadata": {
+      "hex": "#E8E8E8"
+    }
+  },
+  {
+    "id": "d43cc3c1-9f41-4d6f-8881-a37d097e1664",
+    "type": "color",
+    "name": "Forest Green",
+    "metadata": {
+      "hex": "#2E7D32",
+      "code": "forest-green",
+      "kind": "palette",
+      "name": {
+        "en": "Forest Green",
+        "ru": "╨¢╨╡╤ü╨╜╨╛╨╣ ╨╖╨╡╨╗╤æ╨╜╤ï╨╣"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "1596293c-5ef5-49ae-ae8b-814019bae1aa",
+    "type": "color",
+    "name": "Custom hull color",
+    "metadata": {
+      "code": "custom-color",
+      "kind": "custom",
+      "name": {
+        "en": "Custom hull color",
+        "ru": "╨Ü╨░╤ü╤é╨╛╨╝╨╜╤ï╨╣ ╤å╨▓╨╡╤é ╨║╨╛╤Ç╨┐╤â╤ü╨░"
+      },
+      "badge": {
+        "en": "free ΓëÑ3 boats",
+        "ru": "╨▒╨╡╤ü╨┐╨╗╨░╤é╨╜╨╛ ΓëÑ3 ╨╗╨╛╨┤╨╛╨║"
+      },
+      "priceEur": 200,
+      "description": {
+        "en": "Choose any color",
+        "ru": "╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╨╗╤Ä╨▒╨╛╨╣ ╤å╨▓╨╡╤é"
+      }
+    }
+  },
+  {
+    "id": "bfb0d9ad-e192-47d1-87f0-ec595c4c4aa5",
+    "type": "color",
+    "name": "Sunset Orange",
+    "metadata": {
+      "hex": "#F57C00",
+      "code": "sunset-orange",
+      "kind": "palette",
+      "name": {
+        "en": "Sunset Orange",
+        "ru": "╨₧╤Ç╨░╨╜╨╢╨╡╨▓╤ï╨╣ ╨╖╨░╨║╨░╤é"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "5ed7e255-67e8-4a15-b660-86a6da66a85b",
+    "type": "color",
+    "name": "Graphite",
+    "metadata": {
+      "hex": "#424242",
+      "code": "graphite",
+      "kind": "palette",
+      "name": {
+        "en": "Graphite",
+        "ru": "╨ô╤Ç╨░╤ä╨╕╤é"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "1d4921e3-4c93-4c1f-a26b-affd9df8a4d2",
+    "type": "color",
+    "name": "Arctic White",
+    "metadata": {
+      "hex": "#FAFAFA",
+      "code": "arctic-white",
+      "kind": "palette",
+      "name": {
+        "en": "Arctic White",
+        "ru": "╨É╤Ç╨║╤é╨╕╤ç╨╡╤ü╨║╨╕╨╣ ╨▒╨╡╨╗╤ï╨╣"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "61e43b70-1d09-45a2-9ffc-c2e044b729ea",
+    "type": "color",
+    "name": "Racing Red",
+    "metadata": {
+      "hex": "#D32F2F",
+      "code": "racing-red",
+      "kind": "palette",
+      "name": {
+        "en": "Racing Red",
+        "ru": "╨ô╨╛╨╜╨╛╤ç╨╜╤ï╨╣ ╨║╤Ç╨░╤ü╨╜╤ï╨╣"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "6c60fc66-8666-48b9-8d23-908bd22ac92f",
+    "type": "color",
+    "name": "Ocean Blue",
+    "metadata": {
+      "hex": "#006994",
+      "code": "ocean-blue",
+      "kind": "palette",
+      "name": {
+        "en": "Ocean Blue",
+        "ru": "╨₧╨║╨╡╨░╨╜╤ü╨║╨╕╨╣ ╤ü╨╕╨╜╨╕╨╣"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "90ecd339-b6d7-4213-97f4-80b0e8d2c5f3",
+    "type": "color",
+    "name": "Navy Blue",
+    "metadata": {
+      "hex": "#1E3A5F",
+      "code": "navy-blue",
+      "kind": "palette",
+      "name": {
+        "en": "Navy Blue",
+        "ru": "╨ó╤æ╨╝╨╜╨╛-╤ü╨╕╨╜╨╕╨╣"
+      },
+      "isDefault": false
+    }
+  },
+  {
+    "id": "1094e252-3e6d-40c7-889e-a6e297a2adc2",
+    "type": "color",
+    "name": "White/Grey (Default)",
+    "metadata": {
+      "hex": "#E8E8E8",
+      "code": "white-grey",
+      "kind": "palette",
+      "name": {
+        "en": "White/Grey (Default)",
+        "ru": "╨æ╨╡╨╗╤ï╨╣/╨í╨╡╤Ç╤ï╨╣ (╨ƒ╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä)"
+      },
+      "isDefault": true
+    }
+  },
+  {
+    "id": "013222db-b7e5-487b-a7bd-3ffeede3ed90",
+    "type": "color",
+    "name": "Racing Red",
+    "metadata": {
+      "hex": "#E74C3C"
+    }
+  },
+  {
+    "id": "8260137b-2849-45d3-a27b-bef8b6f7ded4",
+    "type": "color",
+    "name": "Pearl White",
+    "metadata": {
+      "hex": "#F8F9FA"
+    }
+  },
+  {
+    "id": "64fc2079-9bb0-4d3c-aa53-28342d9e6012",
+    "type": "color",
+    "name": "Storm Grey",
+    "metadata": {
+      "hex": "#34495E"
+    }
+  },
+  {
+    "id": "6b95a3fe-8451-4478-a4ff-6b48b40709e9",
+    "type": "color",
+    "name": "Sunset Orange",
+    "metadata": {
+      "hex": "#E67E22"
+    }
+  },
+  {
+    "id": "6e023d7b-a5f2-4a39-b69a-afbac3b65e74",
+    "type": "material",
+    "name": "Eco Composite",
+    "metadata": {}
+  },
+  {
+    "id": "9d2ad4ac-ec36-4176-92eb-836c754cc026",
+    "type": "material",
+    "name": "Full carbon",
+    "metadata": {
+      "code": "fullCarbon"
+    }
+  },
+  {
+    "id": "8135d8a7-4da4-49ab-8e84-989f1a023763",
+    "type": "material",
+    "name": "Standard Fiberglass",
+    "metadata": {}
+  },
+  {
+    "id": "37d13312-2e08-4b1f-825a-0d9442a9cdc4",
+    "type": "material",
+    "name": "Premium Carbon Fiber",
+    "metadata": {}
+  },
+  {
+    "id": "e75aebd6-147c-4788-a3db-3aadf4690c2a",
+    "type": "material",
+    "name": "Fiberglass",
+    "metadata": {
+      "code": "fiberglass"
+    }
+  },
+  {
+    "id": "a5f03809-c0a4-4bb2-99f3-95446607bf1d",
+    "type": "model",
+    "name": "Boat 3.3",
+    "metadata": {
+      "length": "3.3m"
+    }
+  },
+  {
+    "id": "82187bca-5a7c-466e-bd27-f3f605e0e0a8",
+    "type": "model",
+    "name": "Boat 3.3E",
+    "metadata": {
+      "length": "3.3m"
+    }
+  },
+  {
+    "id": "4df5d834-d193-4d5c-9379-8d25160096ff",
+    "type": "model",
+    "name": "Boat 2.9",
+    "metadata": {
+      "length": "2.9m",
+      "capacity": "4"
+    }
+  },
+  {
+    "id": "623b5597-3dbc-4a3a-9847-53a6187b5b52",
+    "type": "model",
+    "name": "3.3E",
+    "metadata": {
+      "loa": "3.3 m",
+      "beam": "1.60 m",
+      "code": "3.3E",
+      "basePrices": [
+        {
+          "amountEur": 13100,
+          "materialId": "fiberglass",
+          "tradePrice": 16000
+        },
+        {
+          "amountEur": 17800,
+          "materialId": "fullCarbon",
+          "tradePrice": 21400
+        }
+      ],
+      "baseEquipment": [
+        "Base 3.3 equipment",
+        "LiFePOΓéä 15.6 kWh (integrated BMS)",
+        "Integrated 3.5 kW charger",
+        "Power cable",
+        "CEEΓåÆSchuko adapter",
+        "6.5 kW (10 hp) e-motor"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 190,
+        "fullCarbon": 190
+      }
+    }
+  },
+  {
+    "id": "9742979b-c341-485d-bf57-60ec22042cf2",
+    "type": "model",
+    "name": "2.9E",
+    "metadata": {
+      "loa": "2.9 m",
+      "beam": "1.60 m",
+      "code": "2.9E",
+      "basePrices": [
+        {
+          "amountEur": 12650,
+          "materialId": "fiberglass",
+          "tradePrice": 15000
+        },
+        {
+          "amountEur": 16000,
+          "materialId": "fullCarbon",
+          "tradePrice": 19200
+        }
+      ],
+      "baseEquipment": [
+        "Base 2.9 equipment",
+        "In-house LiFePOΓéä 11.8 kWh (integrated BMS)",
+        "Integrated 3.5 kW charger",
+        "Power cable",
+        "CEEΓåÆSchuko adapter",
+        "6.5 kW (10 hp) e-motor"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 162,
+        "fullCarbon": 162
+      }
+    }
+  },
+  {
+    "id": "2c9fe33c-97b3-4c91-8d44-a6f23e926805",
+    "type": "model",
+    "name": "2.9",
+    "metadata": {
+      "loa": "2.9 m",
+      "beam": "1.60 m",
+      "code": "2.9",
+      "basePrices": [
+        {
+          "amountEur": 3650,
+          "materialId": "fiberglass",
+          "tradePrice": 4800
+        },
+        {
+          "amountEur": 7000,
+          "materialId": "fullCarbon",
+          "tradePrice": 8500
+        }
+      ],
+      "baseEquipment": [
+        "2 dry lockers + front locker (for gas tank Γëñ 24 L)",
+        "Bow eye, 4 lifting points, transom pad for outboard",
+        "2 inspection hatches (buoyancy compartments)",
+        "In-mold anti-slip (deck & floor, color-matched)",
+        "Removable 3-piece bumper (Velcro)"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 61,
+        "fullCarbon": 48
+      }
+    }
+  },
+  {
+    "id": "0392fe80-a079-4a5a-905c-66d891750345",
+    "type": "model",
+    "name": "Boat 2.9E",
+    "metadata": {
+      "length": "2.9m"
+    }
+  },
+  {
+    "id": "9554f0d7-5cd8-4cd6-831d-635256397672",
+    "type": "model",
+    "name": "3.3",
+    "metadata": {
+      "loa": "3.3 m",
+      "beam": "1.60 m",
+      "code": "3.3",
+      "basePrices": [
+        {
+          "amountEur": 4100,
+          "materialId": "fiberglass",
+          "tradePrice": 5400
+        },
+        {
+          "amountEur": 7800,
+          "materialId": "fullCarbon",
+          "tradePrice": 9400
+        }
+      ],
+      "baseEquipment": [
+        "2 dry lockers + front locker (for gas tank Γëñ 24 L)",
+        "Bow eye, 4 lifting points, transom pad for outboard",
+        "2 inspection hatches (buoyancy compartments)",
+        "In-mold anti-slip (deck & floor, color-matched)",
+        "Removable 3-piece bumper (Velcro)"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 69,
+        "fullCarbon": 56
+      }
+    }
+  },
+  {
+    "id": "82e493d1-89fd-4268-8661-37127b081c39",
+    "type": "option",
+    "name": "Premium Sound System",
+    "metadata": {}
+  },
+  {
+    "id": "36adf397-0154-45d7-8a3b-df33df44dd48",
+    "type": "option",
+    "name": "Fishing Rod Holders",
+    "metadata": {}
+  },
+  {
+    "id": "07397909-a2f4-47a7-ad03-938dcbd6210b",
+    "type": "option",
+    "name": "Transom lifting eyes for davits",
+    "metadata": {
+      "code": "transom-lifting-eyes"
+    }
+  },
+  {
+    "id": "5479d361-8053-4195-bfef-1ebf73c57174",
+    "type": "option",
+    "name": "LED navigation lights",
+    "metadata": {
+      "code": "led-nav-lights"
+    }
+  },
+  {
+    "id": "a9af7e55-812d-4aba-8ed5-86751e471409",
+    "type": "option",
+    "name": "Built-in fuel hose",
+    "metadata": {
+      "code": "built-in-fuel-hose"
+    }
+  },
+  {
+    "id": "6ffefab8-16d6-44b0-8a2a-44d81a94605f",
+    "type": "option",
+    "name": "Fuel/water separator",
+    "metadata": {
+      "code": "fuel-water-separator"
+    }
+  },
+  {
+    "id": "acf13a80-c7de-447c-af0e-cb06a1cab070",
+    "type": "option",
+    "name": "Electric bilge pump",
+    "metadata": {
+      "code": "electric-bilge-pump"
+    }
+  },
+  {
+    "id": "6e332ebc-660e-42b1-9559-de6400e8667c",
+    "type": "option",
+    "name": "Rod holder",
+    "metadata": {
+      "code": "rod-holder"
+    }
+  },
+  {
+    "id": "5aff02e0-0907-48c9-a5f2-e18f46b39a71",
+    "type": "option",
+    "name": "Oar holders",
+    "metadata": {
+      "code": "oar-holders"
+    }
+  },
+  {
+    "id": "c3edafc7-3671-45c7-a6c0-03e9264e240f",
+    "type": "option",
+    "name": "Extra Battery",
+    "metadata": {}
+  },
+  {
+    "id": "31cb3673-6b9f-413f-b5f4-6d379a9e02cf",
+    "type": "option",
+    "name": "Cooler Box",
+    "metadata": {}
+  },
+  {
+    "id": "cc1f747e-3ce9-4e51-ba44-07f7cf028ae3",
+    "type": "option",
+    "name": "Anchor & Chain",
+    "metadata": {}
+  },
+  {
+    "id": "e27343ba-f20a-4dba-8369-ceb2bf10d292",
+    "type": "option",
+    "name": "LED Lighting Package",
+    "metadata": {}
+  },
+  {
+    "id": "e6dcb8e1-dfb6-4e53-ba32-d8a00878a769",
+    "type": "option",
+    "name": "Oarlocks",
+    "metadata": {
+      "code": "oarlocks"
+    }
+  },
+  {
+    "id": "fbace968-2310-45b1-8cf8-2c8bc8bd1ee2",
+    "type": "option",
+    "name": "Telescopic aluminum oars",
+    "metadata": {
+      "code": "telescopic-oars"
+    }
+  },
+  {
+    "id": "3119e9d9-59a0-4d23-b664-c1700ed794d8",
+    "type": "option",
+    "name": "Keelguard",
+    "metadata": {
+      "code": "keelguard"
+    }
+  },
+  {
+    "id": "890cdd13-fb68-487a-befe-cb7c81b7380d",
+    "type": "option",
+    "name": "Transport wheels",
+    "metadata": {
+      "code": "transport-wheels"
+    }
+  },
+  {
+    "id": "ac3e52e8-3d72-4d20-b9d9-cfe4d624ffc2",
+    "type": "option",
+    "name": "Custom hull color",
+    "metadata": {
+      "code": "custom-hull-color"
+    }
+  },
+  {
+    "id": "e5cd9232-011d-4174-8c97-52a30887acc3",
+    "type": "option",
+    "name": "10.5 kW (20 hp) e-motor",
+    "metadata": {
+      "code": "10.5kw-motor"
+    }
+  },
+  {
+    "id": "671ae1ec-42b9-4808-bd6a-1dd94357e4f1",
+    "type": "option",
+    "name": "Soft deck",
+    "metadata": {
+      "code": "soft-deck"
+    }
+  },
+  {
+    "id": "a7e09f90-d74e-47d4-af40-0c8991d07be5",
+    "type": "option",
+    "name": "GPS Navigator",
+    "metadata": {}
+  },
+  {
+    "id": "079ee08c-1c50-4b37-9cad-609593c4af90",
+    "type": "option",
+    "name": "Sun Canopy",
+    "metadata": {}
+  }
+]

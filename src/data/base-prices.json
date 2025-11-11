@@ -1,0 +1,59 @@
+{
+  "basePrices": [
+    {
+      "modelId": "2.9",
+      "materialId": "fiberglass",
+      "amountUsd": 5000,
+      "tradePrice": 6500
+    },
+    {
+      "modelId": "2.9",
+      "materialId": "fullCarbon",
+      "amountUsd": 9520,
+      "tradePrice": 11490
+    },
+    {
+      "modelId": "3.3",
+      "materialId": "fiberglass",
+      "amountUsd": 5570,
+      "tradePrice": 7310
+    },
+    {
+      "modelId": "3.3",
+      "materialId": "fullCarbon",
+      "amountUsd": 10560,
+      "tradePrice": 12760
+    },
+    {
+      "modelId": "2.9E",
+      "materialId": "fiberglass",
+      "amountUsd": 17060,
+      "tradePrice": 20190
+    },
+    {
+      "modelId": "2.9E",
+      "materialId": "fullCarbon",
+      "amountUsd": 21580,
+      "tradePrice": 25870
+    },
+    {
+      "modelId": "3.3E",
+      "materialId": "fiberglass",
+      "amountUsd": 17640,
+      "tradePrice": 21580
+    },
+    {
+      "modelId": "3.3E",
+      "materialId": "fullCarbon",
+      "amountUsd": 24020,
+      "tradePrice": 28890
+    }
+  ],
+  "_notes": [
+    "All prices in USD (converted from EUR at 1.16 rate, rounded up to nearest ten)",
+    "tradePrice included for reference only (not used in RRP-only MVP)",
+    "All prices ex VAT",
+    "Source: Official Exce1sior pricelist"
+  ]
+}
+

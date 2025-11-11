@@ -1,0 +1,92 @@
+# Exce1sior Configurator - Docker Ignore
+# Files and directories to exclude from Docker context
+
+# Node
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build outputs
+dist
+build
+.next
+.nuxt
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.travis.yml
+
+# Documentation
+README.md
+CHANGELOG.md
+LICENSE
+docs
+
+# Test files
+**/*.test.js
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.js
+**/*.spec.ts
+**/*.spec.tsx
+__tests__
+coverage
+.nyc_output
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Temporary files
+tmp
+temp
+*.tmp
+
+# Docker files
+Dockerfile
+Dockerfile.*
+docker-compose*.yml
+.dockerignore
+
+# Specify directory (already in repo, but not needed in image)
+.specify
+
+# Supabase directory (migrations already handled separately)
+supabase
+
+# Editor configs
+.editorconfig
+.prettierrc
+.eslintrc*
+eslint.config.js
+
+# TypeScript config (only needed for dev)
+tsconfig*.json
+

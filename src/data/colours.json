@@ -1,0 +1,92 @@
+{
+  "palette": [
+    {
+      "id": "white-grey",
+      "name": {
+        "en": "White/Grey (Default)",
+        "ru": "Белый/Серый (По умолчанию)"
+      },
+      "hex": "#E8E8E8",
+      "isDefault": true
+    },
+    {
+      "id": "navy-blue",
+      "name": {
+        "en": "Navy Blue",
+        "ru": "Тёмно-синий"
+      },
+      "hex": "#1E3A5F"
+    },
+    {
+      "id": "ocean-blue",
+      "name": {
+        "en": "Ocean Blue",
+        "ru": "Океанский синий"
+      },
+      "hex": "#006994"
+    },
+    {
+      "id": "racing-red",
+      "name": {
+        "en": "Racing Red",
+        "ru": "Гоночный красный"
+      },
+      "hex": "#D32F2F"
+    },
+    {
+      "id": "arctic-white",
+      "name": {
+        "en": "Arctic White",
+        "ru": "Арктический белый"
+      },
+      "hex": "#FAFAFA"
+    },
+    {
+      "id": "graphite",
+      "name": {
+        "en": "Graphite",
+        "ru": "Графит"
+      },
+      "hex": "#424242"
+    },
+    {
+      "id": "forest-green",
+      "name": {
+        "en": "Forest Green",
+        "ru": "Лесной зелёный"
+      },
+      "hex": "#2E7D32"
+    },
+    {
+      "id": "sunset-orange",
+      "name": {
+        "en": "Sunset Orange",
+        "ru": "Оранжевый закат"
+      },
+      "hex": "#F57C00"
+    }
+  ],
+  "customColor": {
+    "enabled": true,
+    "priceUsd": 300,
+    "name": {
+      "en": "Custom hull color",
+      "ru": "Кастомный цвет корпуса"
+    },
+    "description": {
+      "en": "Choose any color",
+      "ru": "Выберите любой цвет"
+    },
+    "badge": {
+      "en": "free ≥3 boats",
+      "ru": "бесплатно ≥3 лодок"
+    }
+  },
+  "_notes": [
+    "Palette colors are brand-approved swatches",
+    "Default is White/Grey (included in base price)",
+    "Custom color costs $300",
+    "Badge 'free ≥3 boats' is informational only (no auto-discount)"
+  ]
+}
+

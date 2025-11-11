@@ -1,0 +1,17 @@
+{
+  "en": {
+    "exVat": "Price ex VAT",
+    "shippingSeparately": "Shipping quoted separately",
+    "packingRule": "Packing: up to 3 boats +€150 total; 3 or more boats — free",
+    "rrpDisclaimer": "RRP is subject to change without notice",
+    "customColorBadge": "free ≥3 boats"
+  },
+  "ru": {
+    "exVat": "Цена без НДС",
+    "shippingSeparately": "Доставка рассчитывается отдельно",
+    "packingRule": "Упаковка: до 3 лодок +€150 итого; от 3 лодок — бесплатно",
+    "rrpDisclaimer": "RRP может измениться без предупреждения",
+    "customColorBadge": "бесплатно ≥3 лодок"
+  }
+}
+

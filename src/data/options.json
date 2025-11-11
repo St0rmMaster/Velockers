@@ -1,0 +1,83 @@
+{
+  "options": [
+    {
+      "id": "soft-deck",
+      "name": "Soft deck",
+      "description": "Dedicated deck (not just material)",
+      "priceUsd": 1220
+    },
+    {
+      "id": "10.5kw-motor",
+      "name": "10.5 kW (20 hp) e-motor",
+      "description": "Upgraded electric motor",
+      "priceUsd": 2020
+    },
+    {
+      "id": "custom-hull-color",
+      "name": "Custom hull color",
+      "description": "Free from 3 boats in one order (info badge only)",
+      "priceUsd": 280
+    },
+    {
+      "id": "transport-wheels",
+      "name": "Transport wheels",
+      "priceUsd": 550
+    },
+    {
+      "id": "keelguard",
+      "name": "Keelguard",
+      "priceUsd": 530
+    },
+    {
+      "id": "telescopic-oars",
+      "name": "Telescopic aluminum oars",
+      "priceUsd": 170
+    },
+    {
+      "id": "oarlocks",
+      "name": "Oarlocks",
+      "priceUsd": 70
+    },
+    {
+      "id": "oar-holders",
+      "name": "Oar holders",
+      "priceUsd": 70
+    },
+    {
+      "id": "rod-holder",
+      "name": "Rod holder",
+      "priceUsd": 210
+    },
+    {
+      "id": "electric-bilge-pump",
+      "name": "Electric bilge pump",
+      "priceUsd": 480
+    },
+    {
+      "id": "fuel-water-separator",
+      "name": "Fuel/water separator",
+      "priceUsd": 140
+    },
+    {
+      "id": "built-in-fuel-hose",
+      "name": "Built-in fuel hose",
+      "priceUsd": 210
+    },
+    {
+      "id": "led-nav-lights",
+      "name": "LED navigation lights",
+      "priceUsd": 410
+    },
+    {
+      "id": "transom-lifting-eyes",
+      "name": "Transom lifting eyes for davits",
+      "priceUsd": 210
+    }
+  ],
+  "_notes": [
+    "All prices in USD (converted from EUR at 1.16 rate, rounded up to nearest ten)",
+    "Installation included in all option prices",
+    "Source: Official Exce1sior pricelist"
+  ]
+}
+

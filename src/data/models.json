@@ -1,0 +1,83 @@
+{
+  "models": [
+    {
+      "id": "2.9",
+      "name": "2.9",
+      "loa": "2.9 m",
+      "beam": "1.60 m",
+      "baseEquipment": [
+        "2 dry lockers + front locker (for gas tank ≤ 24 L)",
+        "Bow eye, 4 lifting points, transom pad for outboard",
+        "2 inspection hatches (buoyancy compartments)",
+        "In-mold anti-slip (deck & floor, color-matched)",
+        "Removable 3-piece bumper (Velcro)"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 61,
+        "fullCarbon": 48
+      }
+    },
+    {
+      "id": "3.3",
+      "name": "3.3",
+      "loa": "3.3 m",
+      "beam": "1.60 m",
+      "baseEquipment": [
+        "2 dry lockers + front locker (for gas tank ≤ 24 L)",
+        "Bow eye, 4 lifting points, transom pad for outboard",
+        "2 inspection hatches (buoyancy compartments)",
+        "In-mold anti-slip (deck & floor, color-matched)",
+        "Removable 3-piece bumper (Velcro)"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 69,
+        "fullCarbon": 56
+      }
+    },
+    {
+      "id": "2.9E",
+      "name": "2.9E",
+      "loa": "2.9 m",
+      "beam": "1.60 m",
+      "baseEquipment": [
+        "Base 2.9 equipment",
+        "In-house LiFePO₄ 11.8 kWh (integrated BMS)",
+        "Integrated 3.5 kW charger",
+        "Power cable",
+        "CEE→Schuko adapter",
+        "6.5 kW (10 hp) e-motor"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 162,
+        "fullCarbon": 162
+      },
+      "_note": "Electric model - same weight for both materials due to battery weight dominance"
+    },
+    {
+      "id": "3.3E",
+      "name": "3.3E",
+      "loa": "3.3 m",
+      "beam": "1.60 m",
+      "baseEquipment": [
+        "Base 3.3 equipment",
+        "LiFePO₄ 15.6 kWh (integrated BMS)",
+        "Integrated 3.5 kW charger",
+        "Power cable",
+        "CEE→Schuko adapter",
+        "6.5 kW (10 hp) e-motor"
+      ],
+      "weightsByMaterial": {
+        "fiberglass": 190,
+        "fullCarbon": 190
+      },
+      "_note": "Electric model - same weight for both materials due to battery weight dominance"
+    }
+  ],
+  "_notes": [
+    "All models: White/Grey color scheme by default",
+    "LOA = Length Overall",
+    "Weights in kg",
+    "Source: Official Exce1sior pricelist"
+  ]
+}
+
